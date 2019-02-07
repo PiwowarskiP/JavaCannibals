@@ -4,7 +4,8 @@ Projekt ze studiów, napisany zespołowo (2 osoby) na potrzeby zaliczenia przedm
 Praca zespołowa - P. Piwowarski & D. Sikorski - z systemem kontroli wersji Git.
 Mój zakres prac:
   Całe klasy UserPanel, UserPanelSlider, LogTerminal.
-  Logika i algorytm ruchu po okręgu (klasa BarbariansFireplacePanel)
+  Logika i algorytm ruchu po okręgu (klasa BarbariansFireplacePanel).
+  Kontrola i modyfikacja pozostałych klas (m.in. dodanie komunikatów do Event Log).
   Przygotowanie części assetów.
   Dokumentacja projektu.
   
